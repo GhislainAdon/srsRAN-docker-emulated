@@ -103,3 +103,4 @@ sure no pings are running.
 Helper scripts are provided for easy shell access to the Docker containers.
 These are `./enterEPC`, `./enterENB` and `./enterUE` for the EPC, eNB and UE
 respectively.
+More demo on https://hub.docker.com/r/shubhamtatvamasi/srsran-demo
